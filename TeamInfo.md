@@ -5,15 +5,15 @@
 |   Info      |        Description     |
 | ----------- | ---------------------- |
 | TeamID      |        Team-059        |
-| TeamName    |        besties         |
-| Captain     |        Aditi Roy       |
-| Captain     |  aditir2@illinois.edu  |
-| Member1     |       Ramya Reddy      |
-| Member1     |  ramyar3@illinois.edu  |
-| Member2     |    Iniya Murugasamy    |
-| Member2     |   iniyam2@illinois.edu |
-| Member3     |       Neha Joseph      |
-| Member3     | nehaej2@illinois.edu   |
+| TeamName    |         titans         |
+| Captain     |      Zihao Zheng       |
+| Captain     |  zihao10@illinois.edu  |
+| Member1     |     Rishabh Agrawal    |
+| Member1     |  ra26@illinois.edu     |
+| Member2     |      Vansh Porwal      |
+| Member2     |  vporwal3@illinois.edu |
+| Member3     |       Heejun Yun       |
+| Member3     | heejun2@illinois.edu   |
 
 ## Project Information
 
